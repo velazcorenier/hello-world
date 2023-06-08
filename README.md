@@ -25,7 +25,6 @@
   <img src="https://metrics.lecoq.io/velazcorenier?template=classic" /> <br />
   <a href="https://github.com/velazcorenier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=velazcorenier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velazcorenier&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=velazcorenier&theme=github-dark-blue&hide_border=true&fire=DD2727"/>
 </div>
 <hr>
